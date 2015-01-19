@@ -3,6 +3,8 @@ background-color:lightblue;
 
 }
 .container{
-
-height:100%;
+	width:80%;
+	margin:0 auto;
+	background-color:white;
+	height:100%;
 }
